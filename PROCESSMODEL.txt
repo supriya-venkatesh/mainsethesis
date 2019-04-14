@@ -2,10 +2,10 @@ In this online auction system the main process model we emply is the waterfall m
 The waterfall model bascially can be defined as-
 	The waterfall model, sometimes called the classic life cycle, suggests a systematic,
 sequential approach to software development that begins with customer specification
-of requirements and progresses through planning, modeling, construction, and
+of requirements and progresses through planning, modelling, construction, and
 deployment, culminating in ongoing support of the completed software.
 
-The main reason for choosing the waterfall process odel would be becaause the requirements for a problem are well understood—when
+The main reason for choosing the waterfall process model would be because the requirements for a problem are well understoodâ€”when
 work flows from communication through deployment in a reasonably linear fashion.
 The requirement of the system are already well defined as stated in our use 
 case diagrams etc.Also, the only disadvantage of using the disadvantage of the process
